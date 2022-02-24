@@ -6,6 +6,10 @@ This project used reactJS to show list of phones with details.
 
 In the project directory, you can run:
 
+### `npm install`
+
+Install modules.\
+
 ### `npm start`
 
 Runs the app in the development mode.\
