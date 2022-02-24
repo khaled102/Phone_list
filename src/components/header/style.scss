@@ -1,0 +1,14 @@
+.header{
+    .Header_Container{
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-self: center;
+        align-items: center;
+        margin-left: 100px;
+        .title{
+            font-family: 'Bungee', sans-serif;
+            font-size: 32px;
+        }
+    }
+}
